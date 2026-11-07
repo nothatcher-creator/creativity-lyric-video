@@ -1,0 +1,25 @@
+{
+  "title": "Creativity",
+  "artist": "#WEED_SMOK",
+  "date": "2025-06-03",
+  "duration": 239.958333,
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24
+  },
+  "lyric_cues": 52,
+  "assets": [
+    "Original MP3",
+    "Original singer photograph: singer.png"
+  ],
+  "source": "scene.json",
+  "video": "creativity-lyric-video.mp4",
+  "poster": "poster.png",
+  "videoBytes": 75804842,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24
+}
